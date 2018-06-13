@@ -1,4 +1,4 @@
 function add(a,b){
- let result=2+4;
+ let result=6+2;
   return result;
 }
